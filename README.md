@@ -1,1 +1,5 @@
-# <a href="https://github.com/shaik-abdul-thouhid/youtube-clone/">youtube-clone</a>
+# **[youtube-clone][]**
+[youtube-clone]: https://github.com/shaik-abdul-thouhid/youtube-clone
+
+## **main features**
+
