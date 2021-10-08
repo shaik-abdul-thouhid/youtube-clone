@@ -1,0 +1,37 @@
+{
+  "name": "youtube-clone",
+  "version": "0.0.1",
+  "description": "this is a server for 'youtube-clone' project",
+  "main": "App.js",
+  "scripts": {
+    "run": "node App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaik-abdul-thouhid/youtube-clone.git"
+  },
+  "keywords": [
+    "youtube-clone",
+    "online",
+    "video",
+    "player",
+    "youtube"
+  ],
+  "authors": [
+    "shaik abdul thouhid",
+    "rohit kumar das"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shaik-abdul-thouhid/youtube-clone/issues"
+  },
+  "homepage": "https://github.com/shaik-abdul-thouhid/youtube-clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "sass": "^1.42.1",
+    "socket.io": "^4.2.0"
+  }
+}
